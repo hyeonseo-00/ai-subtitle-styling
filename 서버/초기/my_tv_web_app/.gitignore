@@ -1,0 +1,23 @@
+# Flutter/Dart 관련 (여기가 핵심! 용량 제일 큼)
+/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Android/iOS 빌드 파일
+/android/.gradle/
+/android/app/build/
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+
+# IDE 설정 파일 (남들이랑 공유 안 함)
+.idea/
+.vscode/
+*.iml
+
+# Mac/Windows 시스템 파일
+.DS_Store
+Thumbs.db
